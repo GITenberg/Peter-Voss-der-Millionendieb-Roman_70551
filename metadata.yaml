@@ -1,0 +1,39 @@
+_repo: Peter-Voss-der-Millionendieb-Roman_70551
+_version: 0.0.1
+alternative_title: 'Peter Voss, der Millionendieb :  Roman'
+creator:
+  author:
+    agent_name: Seeliger, Ewald Gerhard
+    aliases:
+    - Menschheit, Ewger Seeliger
+    - Seeliger, Ewger
+    birthdate: 1877
+    deathdate: 1959
+    gutenberg_agent_id: '55796'
+    url: http://www.gutenberg.org/2009/agents/55796
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ewald_Gerhard_Seeliger
+    - https://de.wikipedia.org/wiki/Ewald_Gerhard_Seeliger
+description: ''
+gutenberg_issued: '2023-04-14'
+identifiers:
+  gutenberg: '70551'
+  lccn: '13024343'
+language: de
+pgterms:marc904: https://archive.org/details/petervossdermill00seeluoft
+pgterms:marc905: 20181021105042seeliger
+pgterms:marc906: '1913'
+pgterms:marc907: de
+production_note: Peter Becker, Norbert Mueller and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aGermany :$bVerlag Ullstein & Co, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+- GITenberg
+title: 'Peter Voß, der Millionendieb : $b Roman'
+url: http://www.gutenberg.org/ebooks/70551
