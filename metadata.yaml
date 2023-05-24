@@ -1,6 +1,9 @@
 _repo: Peter-Voss-der-Millionendieb-Roman_70551
 _version: 0.1.0
 alternative_title: 'Peter Voss, der Millionendieb :  Roman'
+covers:
+- cover_type: archival
+  image_path: 70551-h/images/cover.jpg
 creator:
   author:
     agent_name: Seeliger, Ewald Gerhard
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ewald_Gerhard_Seeliger
     - https://de.wikipedia.org/wiki/Ewald_Gerhard_Seeliger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70551#Peter-Voss-der-Millionendieb-Roman
 gutenberg_issued: '2023-04-14'
 identifiers:
   gutenberg: '70551'
